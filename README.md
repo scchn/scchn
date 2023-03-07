@@ -1,8 +1,8 @@
 ### XCap - Digital Microscope App for macOS
 
-![xcap]
-
 [![mac_app_store]](https://apps.apple.com/us/app/xcap/id1569525013)
+
+![xcap]
 
 
 
